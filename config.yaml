@@ -145,7 +145,7 @@ params:
       enable: true
       title: "I have a solid understanding of"
       items:
-        - "TEst"
+        - "TESt"
         - "CSS"
         - "JavaScript"
         - "React"
